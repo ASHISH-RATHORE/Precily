@@ -13,7 +13,7 @@ github
 - Feature Info(Customer)
 
 ## v0.21.0(2023-08-18)
-- _No changes in this release_
+_No changes in this release_
 
 ## v0.20.0(2023-07-28) 
 ### Fixed below defects:
