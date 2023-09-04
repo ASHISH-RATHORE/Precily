@@ -2,7 +2,7 @@
 
 ## v0.22.0 (2023-09-01) 
 - Introduces changelog file.
-- Added Feature Downloadable checkbox. 
+- Added **Feature Downloadable** checkbox. 
 github
 ### Impacted screens are mentioned below:
 - Configure Feature(ISV)
